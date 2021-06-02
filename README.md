@@ -1,7 +1,7 @@
 # krosas-task
 
 # Pred spustením
-Vytvorenie databázy; je dostupný skript vygenerovaný pomocou **microsoft sql server management studio**.<br/>
+Vytvorenie databázy; je dostupný skript vygenerovaný pomocou **microsoft sql server management studio** (databaza task).<br/>
 Upraviť súbor **appsetting.json**; v tomto súbore je treba nastaviť **DefaultConnectionString** na vytvorenú databázu v zariadení.<br/>
 
 # Funkčnosť
